@@ -1,0 +1,9 @@
+name: CordeHeal
+version: '${project.version}'
+main: org.corderun.cordeheal.CordeHeal
+api-version: 1.19
+authors: [ CorderuN ]
+commands:
+  heal: {}
+  feed: {}
+  cordeheal: {}
